@@ -1,0 +1,59 @@
+.main{
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10%;
+    border: 4px solid rgb(252, 255, 85);
+    background: #fffeea;
+    border-radius: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5%;
+    border: 4px solid rgb(252, 255, 85);
+    background: #fffee2;
+    border-radius: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 12px;
+    font-size: larger;
+    background: rgb(255, 236, 199);
+    border: 3px dashed rgb(255, 199, 86);
+    border-radius: 20px;
+}
+.tline {
+    text-decoration: line-through;
+    background: rgb(199, 255, 202);
+    border: 3px dashed rgb(43, 255, 50);
+} 
+button{
+    padding: 2%;
+    border-radius: 50%;
+    border: 4px solid rgb(255, 104, 104);
+    color: #fffee2;
+    background: rgb(255, 124, 37);
+}
+input{
+    padding: 2%;
+}
+.cross{
+    position: relative;
+    border: 4px solid rgb(255, 104, 104);
+    background-color: rgb(255, 141, 131);
+    left: 20%;
+    border-radius: 50px;
+}
+.add-new-todo {
+    border: 0px;
+    border-radius: 5%;
+    font-family: inherit;
+    font-weight: bolder;
+}
